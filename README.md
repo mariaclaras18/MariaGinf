@@ -1,2 +1,2 @@
-# MariaGinf
-backup
+# CadastroGINF
+Cadastro do ginf funcionando perfeitamente
